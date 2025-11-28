@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Making blocks out of bytes",
+    "min_format": 88,
+    "max_format": 88
+  }
+}
